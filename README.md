@@ -8,25 +8,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B)](https://www.streamlit.io/)
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Overview](#overview)
-- [About the Dataset](#about-the-dataset)
-- [Installation](#installation)
-- [Deployement on Streamlit](#deployement-on-streamlit)
-- [Directory Tree](#directory-tree)
-- [Bug / Feature Request](#bug--feature-request)
-- [Future Scope](#future-scope)
-
-## Demo
-
-- Link: https://imgcaptiongen.streamlit.app/
-
-`Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
-
-- Please consider giving a ⭐ to the repository if you find this app useful.
-- A quick preview of the **Image Caption Generator** app:
 
 ![Caption Generator Demo](resource/demo.gif)
 
@@ -88,7 +69,6 @@ enableCORS = false
 ```
 |   app.py
 |   image-captioner.ipynb
-|   LICENSE.md
 |   mymodel.h5
 |   README.md
 |   requirements.txt
@@ -96,10 +76,6 @@ enableCORS = false
 \---resource
         demo.gif
 ```
-
-## Bug / Feature Request
-
-If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my [GitHub repository](https://github.com/Sajid030/image-captioning/issues). Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
 
 ## Future Scope
 
